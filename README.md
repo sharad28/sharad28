@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Sarad Mishra 👋</h1>
 
 <p align="center">
-  <em>ML Engineer · Data Scientist · AI Enthusiast · Based in New Delhi 🇮🇳</em>
+  <em>AI Engineer · Data Scientist  · Based in New Delhi 🇮🇳</em>
 </p>
 
 <p align="center">
