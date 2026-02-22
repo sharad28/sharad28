@@ -80,11 +80,6 @@ I'm a passionate Machine Learning and Data Science practitioner with a strong in
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sharad28&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharad28&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sharad28&theme=tokyonight&hide_border=true" width="60%" />
 </p>
 
@@ -93,17 +88,17 @@ I'm a passionate Machine Learning and Data Science practitioner with a strong in
 ## 🌱 What I'm Exploring
 
 - 🧩 **Agentic AI** — multi-step reasoning, tool use, and autonomous agents
-- 👁️ **Computer Vision** — object detection, segmentation, and vision-language models
 - 📚 **RAG Systems** — retrieval-augmented generation for knowledge-grounded chatbots
 - 🔬 **ML Fundamentals** — building intuition by implementing algorithms from scratch
+- 👁️ **Computer Vision** — object detection, segmentation, and vision-language models
 
 ---
 
 ## 🤝 Let's Collaborate
 
 I'm always open to interesting conversations and collaborations, especially on:
-- End-to-end NLP pipelines (data → model → deployment)
 - LLM-based applications and AI agents
+- End-to-end NLP pipelines (data → model → deployment)
 - Open-source ML projects
 
 Feel free to reach out at **saradmishra28@gmail.com** or open an issue on any of my repos!
