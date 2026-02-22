@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Sarad Mishra 👋</h1>
 
 <p align="center">
-  <em>AI Engineer · Data Scientist  · Based in Maryland USA </em>
+  <em>AI Engineer · Data Scientist  · Based in Maryland USA 🇺🇸</em>
 </p>
 
 <p align="center">
