@@ -32,9 +32,10 @@ I'm a passionate Machine Learning and Data Science practitioner with a strong in
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
 | [🤖 Spark Triage Agent](https://github.com/sharad28/spark-triage-agent) | An AI-powered triage agent for automated issue classification and prioritization | Python, LLM, Agent Framework |
+| [🏗️ Expert Advisor for Travel agent](https://github.com/sharad28/ExpertInsight-AI) | AI help the travel agent to find the necessary information as per Personal understanding of customer | Python, RAG, Streamlit, gemini-tool-calling |
 | [💬 Chatbot with LlamaIndex](https://github.com/sharad28/Chatbot_streamlit_llamaindex) | Conversational chatbot with RAG capabilities using LlamaIndex and a Streamlit UI | Python, LlamaIndex, Streamlit |
 | [⚙️ ML from Scratch](https://github.com/sharad28/ML_from_Scratch) | Core ML algorithms implemented from scratch using only NumPy — no sklearn shortcuts | Python, NumPy |
-| [🏗️ Tensile & Compressive Strength Prediction](https://github.com/sharad28/Tensile_-_compressive_strength) | Predictive modeling for material strength properties using regression techniques | Python, ML, HTML |
+
 
 ---
 
