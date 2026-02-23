@@ -20,8 +20,8 @@
 I'm a passionate Machine Learning and Data Science practitioner with a strong interest in building intelligent systems from the ground up. I love working at the intersection of **NLP**, **Computer Vision**, and **end-to-end ML pipelines** — from raw data to deployed models.
 
 - 🔭 Currently building: **AI agents and LLM-powered applications**
-- 🌱 Deepening expertise in: **Computer Vision & NLP**
-- 💞️ Open to collaborate on: **End-to-end NLP projects**
+- 🌱 Deepening expertise in: **AI agent , Classical ML, and Deeplearning**
+- 💞️ Open to collaborate on: **End-to-end projects**
 - 🎯 Goal: Bridge the gap between research and real-world AI applications
 - 📫 Reach me at: **saradmishra28@gmail.com**
 
